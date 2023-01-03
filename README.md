@@ -1,1 +1,1 @@
-# Data-Analysis-of-Worl-Bank-Data
+# Data-Analysis-of-World-Bank-Data
