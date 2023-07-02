@@ -1,4 +1,8 @@
-# Data-Analysis-of-World-Bank-Data
-World Bank Data is being analysed to identify the top 10 countries that will benefit from digitalisation aid and can utilise it the best.
-
-Different factors were chosen which can contribute towards the economy of a country which can help us identifying such a country that is working towards the technically advance future and needs aid from World Bank to fulfil the goal of a digitalised economy.
+# World Bank Data Digitalisation Aid
+* Conducted data analytics project to rank countries for digital development initiative aid from the World Bank.
+* Utilized cluster analysis and regression analysis to analyze indicators like internet usage, population, GDP per capita, literacy rate, and more.
+* Identified Pakistan as the top candidate for aid, followed by Nigeria and Bangladesh.
+* Demonstrated proficiency in data preprocessing, statistical modeling, and programming (R language).
+* Highlighted understanding of the importance of digitalization and its impact on economic growth.
+* Provided actionable recommendations for digital development initiatives.
+* Showcased analytical mindset, attention to detail, and ability to draw insights from complex datasets.
